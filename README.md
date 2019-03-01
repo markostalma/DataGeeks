@@ -1,4 +1,4 @@
 # DataGeeks
 FONIS - Data Geeks Workshop
 
-Domaći zadaci
+Domaći zadaci sa radionice
